@@ -1,0 +1,7 @@
+{
+  "name": "Internet-Inovacije/tag-it",
+  "description": "tag-it",
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
